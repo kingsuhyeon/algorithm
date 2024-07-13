@@ -14,5 +14,7 @@ public class Baekjoon_15552 {
 
             System.out.println(b+c);
         }
+
+        sc.close();
     }
 }
